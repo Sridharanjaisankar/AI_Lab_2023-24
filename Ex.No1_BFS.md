@@ -36,7 +36,8 @@ def bfs(visited,graph,node):
                 visited.append(neighbour)
                 queue.append(neighbour)
 print("following is the breath first search")
-bfs(visited,graph,'A')```
+bfs(visited,graph,'A')
+```
 
 
 
