@@ -13,7 +13,8 @@ To write a python program to implement Breadth first Search.
 7.   Call the bfs function by passing arguments visited, graph and starting node.
 8.   Stop the program.
 ### Program:
-```graph = {
+```python
+graph = {
     'A' : ['B','C'],
     'B' : ['D','E'],
     'C' : ['F','G'],
@@ -35,7 +36,7 @@ def bfs(visited,graph,node):
                 visited.append(neighbour)
                 queue.append(neighbour)
 print("following is the breath first search")
-bfs(visited,graph,'A')```python
+bfs(visited,graph,'A')```
 
 
 
