@@ -49,6 +49,7 @@ bfs(visited,graph,'A')
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/b8e5d18b-bd05-4d4b-94de-4c9dbe704e11)
 
 
 
